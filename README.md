@@ -2,7 +2,7 @@
   <img height="200" src="assets/header.svg" />
 </div>
 
-<h2 align="center">🚀 Technologies I've used</h2>
+<h2 align="center">🚀 Technologies</h2>
 <div align="center">
 <table>
     <tr>
@@ -43,7 +43,7 @@
 </table>
 </div></br>
 
-<h2 align="center">☎️ Connect with me</h2>
+<h2 align="center">☎️ Socials</h2>
 <div align="center">
   <a href="mailto:ptanmay143@gmail.com" target="_blank">
     <img
