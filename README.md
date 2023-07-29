@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="assets/header.svg" />
+  <img height="200" src="assets/index.svg" />
 </div>
 
 <h2 align="center">🚀 Technologies</h2>
