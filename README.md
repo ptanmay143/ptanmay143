@@ -2,47 +2,6 @@
   <img height="200" src="assets/index.svg" />
 </div>
 
-<h2 align="center">🚀 Technologies</h2>
-<div align="center">
-<table>
-    <tr>
-      <th>Platforms</th>
-      <th>Languages</th>
-      <th>Frameworks</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30"
-          width="42" alt="windows8 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42"
-          alt="linux logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42"
-          alt="docker logo" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"
-          width="42" alt="python logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42"
-          alt="r logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42"
-          alt="html5 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42"
-          alt="css3 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-          width="42" alt="javascript logo" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30"
-          width="42" alt="tensorflow logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42"
-          alt="numpy logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="42"
-          alt="pandas logo" />
-      </td>
-    </tr>
-</table>
-</div></br>
-
 <h2 align="center">☎️ Socials</h2>
 <div align="center">
   <a href="mailto:ptanmay143@gmail.com" target="_blank">
