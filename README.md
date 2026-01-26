@@ -1,27 +1,44 @@
 <div align="center">
-  <img height="200" src="assets/index.svg" />
+  <img src="assets/index.svg" height="180" alt="Welcome" />
 </div>
 
-<h2 align="center">☎️ Socials</h2>
+## 🤝 Connect With Me
+
 <div align="center">
-  <a href="mailto:ptanmay143@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="gmail logo" />
-  </a>
-  <a href="mailto:ptanmay143@outlook.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="microsoft-outlook logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/ptanmay143/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/ptanmay143/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="instagram logo" />
-  </a>
+
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td align="center" width="140" style="border: none;">
+        <a href="https://ptanmay143.github.io" target="_blank">
+          <img src="https://img.icons8.com/fluency/240/internet.png" width="80" alt="Portfolio" />
+          <br><b>Portfolio</b>
+        </a>
+      </td>
+      <td align="center" width="140" style="border: none;">
+        <a href="mailto:ptanmay143@gmail.com">
+          <img src="https://img.icons8.com/color/240/gmail-new.png" width="80" alt="Gmail" />
+          <br><b>Gmail</b>
+        </a>
+      </td>
+      <td align="center" width="140" style="border: none;">
+        <a href="mailto:ptanmay143@outlook.com">
+          <img src="https://img.icons8.com/fluency/240/microsoft-outlook-2019.png" width="80" alt="Outlook" />
+          <br><b>Outlook</b>
+        </a>
+      </td>
+      <td align="center" width="140" style="border: none;">
+        <a href="https://www.linkedin.com/in/ptanmay143/" target="_blank">
+          <img src="https://img.icons8.com/fluency/240/linkedin.png" width="80" alt="LinkedIn" />
+          <br><b>LinkedIn</b>
+        </a>
+      </td>
+      <td align="center" width="140" style="border: none;">
+        <a href="https://www.instagram.com/ptanmay143/" target="_blank">
+          <img src="https://img.icons8.com/fluency/240/instagram-new.png" width="80" alt="Instagram" />
+          <br><b>Instagram</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
