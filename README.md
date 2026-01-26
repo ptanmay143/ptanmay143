@@ -1,27 +1,68 @@
 <div align="center">
-  <img height="200" src="assets/index.svg" />
+  <img src="assets/index.svg" height="180" alt="Welcome" />
 </div>
 
-<h2 align="center">☎️ Socials</h2>
+<h2 align="center">Connect</h2>
+
 <div align="center">
-  <a href="mailto:ptanmay143@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="gmail logo" />
+  <!-- Portfolio (Custom Icon) -->
+  <a href="https://ptanmay143.github.io" target="_blank" title="Portfolio">
+    <svg
+      height="40"
+      viewBox="0 0 24 24"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect
+        x="2"
+        y="3"
+        width="20"
+        height="18"
+        rx="4"
+        stroke="currentColor"
+        stroke-width="1.8"
+      />
+      <path
+        d="M8 9h8M8 13h5"
+        stroke="currentColor"
+        stroke-width="1.8"
+        stroke-linecap="round"
+      />
+    </svg>
   </a>
-  <a href="mailto:ptanmay143@outlook.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="microsoft-outlook logo" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:ptanmay143@gmail.com" title="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/ptanmay143/" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Outlook -->
+  <a href="mailto:ptanmay143@outlook.com" title="Outlook">
     <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="linkedin logo" />
+      src="https://cdn.simpleicons.org/microsoftoutlook/0078D4"
+      height="40"
+    />
   </a>
-  <a href="https://www.instagram.com/ptanmay143/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="instagram logo" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a
+    href="https://www.linkedin.com/in/ptanmay143/"
+    target="_blank"
+    title="LinkedIn"
+  >
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
+  <a
+    href="https://www.instagram.com/ptanmay143/"
+    target="_blank"
+    title="Instagram"
+  >
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" />
   </a>
 </div>
